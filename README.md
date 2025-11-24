@@ -4,10 +4,10 @@ Improve rough ideas into clear, structured, high-quality prompts for AI models l
 
 A responsive web app built with Next.js, TypeScript, Tailwind CSS, and the OpenRouter API.
 
-## Screenshots
+## Images
 
-![Landing Page](/landing.png)
-![Prompt Improver](/improve.png)
+<img width="1922" height="957" alt="Image" src="https://github.com/user-attachments/assets/78e638fd-1bca-4e7c-9793-b2942520ac59" />
+<img width="1926" height="960" alt="Image" src="https://github.com/user-attachments/assets/b9d3a4e2-1b4e-410e-87db-7c0789333676" />
 
 ## Overview
 
@@ -37,8 +37,8 @@ Prompt Booter allows users to enter rough text and automatically transform it in
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/prompt-booter.git
-cd prompt-booter
+git clone git@github.com:MohammadTahaTalebi/prompt-booster.git
+cd prompt-booster
 ```
 
 ### Install dependencies
